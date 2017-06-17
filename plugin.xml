@@ -170,7 +170,7 @@
              <string>Allow instant pickup to take a picture and update your profile picture</string>
          </config-file>
 
-         <preference name="PHOTOLIBRARY_USAGE_DESCRIPTION" default=" " />
+         <preference name="PHOTOLIBRARY_USAGE_DESCRIPTION" default="Allow instant pickup to select a picture and update your profile picture" />
          <config-file target="*-Info.plist" parent="NSPhotoLibraryUsageDescription">
              <string>Allow instant pickup to select a picture and update your profile picture</string>
          </config-file>
